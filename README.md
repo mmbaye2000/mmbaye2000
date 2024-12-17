@@ -1,5 +1,5 @@
 <h1>Hello! I'm Mourtada, an <a href="https://www.linkedin.com/in/mourtada-mbaye-724085272/">IT Specialist</a></h1>
-<h2>Information Technology Projects</h2>
+<h2>🖥Information Technology Projects🖥</h2>
 <ul>
   <li><strong>osTicket: Creating a Ticketing System for Help Desk</strong></li>
   <ul>
