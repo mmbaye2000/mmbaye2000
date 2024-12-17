@@ -1,6 +1,6 @@
 Hello! I'm Mourtada, an <a href="https://www.linkedin.com/in/mourtada-mbaye-724085272/">IT Specialist</a>
 <ul>
-  <li>osTicket: Creating a Ticketing System for Help Desk</li>
+  <li><strong>osTicket: Creating a Ticketing System for Help Desk</strong></li>
   <ul>
     <li><a href="https://github.com/mmbaye2000/Help-Desk-Ticketing-System-Creation">osTicket: Prerequisites and Installation</a></li>
     <li><a href="https://github.com/mmbaye2000/install-configuration">osTicket: Post-Installation Configuration</a></li>
@@ -9,14 +9,14 @@ Hello! I'm Mourtada, an <a href="https://www.linkedin.com/in/mourtada-mbaye-7240
 </ul>
 
 <ul>
-  <li>Microsoft Azure</li>
+  <li><strong>Microsoft Azure</strong></li>
   <ul>
     <li><a href="https://github.com/mmbaye2000/Local-Active-Directory-Setup">Setting up Active Directory with Azure VMs</a></li>
   </ul>
 </ul>
 
 <ul>
-  <li>Virtual Private Network</li>
+  <li><strong>Virtual Private Network</strong></li>
   <ul>
     <li><a href="https://github.com/mmbaye2000/vpn-setup">VPN setup in Virtual Machine</a></li>
   </ul>
